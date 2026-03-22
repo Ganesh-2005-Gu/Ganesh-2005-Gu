@@ -1,50 +1,36 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<h1 align="center">👋 Hi, I'm <strong>Ganesh</strong></h1>
 
-<h1 align="center">
-  👋 Hi, I'm <strong>Midhun NK</strong>
-</h1>
-
-<h3 align="center">🚀 Full Stack Developer | MERN • Python • Flutter</h3>
+<h3 align="center">💻 Backend Developer | Java • Spring Boot • SQL</h3>
 
 <p align="center">
-  💡 Building fast, scalable & visually engaging digital experiences  
+  🚀 Passionate about building scalable backend systems & APIs
 </p>
 
 ---
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🔭 Currently working on **Full Stack & Mobile Apps**
-- 🌱 Learning **System Design & Advanced Backend**
-- 💬 Ask me about **MERN, Python, Flutter**
-- 🤝 Open to **collaborations & freelance projects**
-- ⚡ Fun fact: *Vigilante (Secret Identity 😎)*
-
----
-
-### 📬 Contact & Info
-
-<p>
-  <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-  <a href="mailto:midhunnk2019@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-1e1e2e?style=for-the-badge" />
-  </a>
-  <img src="https://img.shields.io/badge/🤝_Open_to_Collab-1e1e2e?style=for-the-badge" />
-</p>
+- 🎓 Computer Science Student  
+- 💡 Backend-focused developer  
+- ⚙️ Skilled in **Java (OOP & DSA), C, SQL, Spring Boot**  
+- 🗄️ Experience with **MySQL & database-driven applications**  
+- 🌐 Basic knowledge of **HTML & CSS**  
+- 📈 Currently learning **Advanced Backend & System Design**  
+- 🤝 Looking for **internships & real-world development opportunities**
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://dev.to/midhun-nk"><img src="https://img.shields.io/badge/DEV.to-000?style=for-the-badge&logo=dev.to" /></a>
-  <a href="https://github.com/Midhun-Nk"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github" /></a>
-  <a href="https://linkedin.com/in/midhun-nk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://instagram.com/mike.devlogs"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram" /></a>
-  <a href="https://x.com/mike_devlogs"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a>
-  <a href="https://youtube.com/EduMikeStudio"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" /></a>
+  <a href="https://www.instagram.com/_ganesha_0001">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ganesh-87878415g">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -53,22 +39,27 @@
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,dart,c" />
+  <img src="https://skillicons.dev/icons?i=java,c,js,python,html,css" />
 </p>
 
-### 📚 Frameworks & Libraries
+### ⚙️ Backend & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,django,flutter,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
 </p>
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### 🧰 Tools
+### ☁️ Cloud & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,git" />
+</p>
+
+### 🧰 Other Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman" />
 </p>
 
 ---
@@ -76,15 +67,45 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ganesh-2005-Gu&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ganesh-2005-Gu&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-2005-Gu&theme=dark&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-## ❤️ Support Me
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/midhun_mike">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ganesh-2005-Gu&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 🔝 Top Contributions
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Ganesh-2005-Gu&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Ganesh-2005-Gu&icon=5&color=6" />
+</p>
+
+---
+
+## 💡 Quote
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i> – John Johnson
 </p>
