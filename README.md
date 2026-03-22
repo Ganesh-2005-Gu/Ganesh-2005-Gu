@@ -63,15 +63,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ganesh-2005-Gu&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
+<p align="left">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Ganesh-2005-Gu&theme=dark&hide_border=true" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-2005-Gu&theme=dark&layout=compact&hide_border=true" />
 </p>
 
