@@ -63,10 +63,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Ganesha-2005-MAX&show_icons=true&theme=dark&hide_border=true" />
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Ganesha-2005-MAX&theme=dark&hide_border=true" />
 </p>
 
-<p align="center">
+<p align="right">
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesha-2005-MAX&layout=compact&theme=dark&hide_border=true" />
 </p>
