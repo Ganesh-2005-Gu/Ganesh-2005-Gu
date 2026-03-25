@@ -65,10 +65,10 @@
 
 <table>
   <tr>
-    <td>
+    <td style="padding-right: 20px;">
       <img src="https://streak-stats.demolab.com?user=Ganesha-2005-MAX&theme=dark&hide_border=true" />
     </td>
-    <td>
+    <td style="padding-left: 20px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesha-2005-MAX&layout=compact&theme=dark&hide_border=true" />
     </td>
   </tr>
